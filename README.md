@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZewudeHirpesa
 - 👀 I’m interested in sofware engineering
 - 🌱 I’m currently learning masters of production engineering and management
-- 💞️ I’m looking to collaborate on developer
+- 💞️ I’m looking to collaborate with developer
 - 📫 How to reach me zewude0039hirpesa@gmail.com
 
 <!---
